@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Nusantech",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Typescript", "Antd", "Sass"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "JCM",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Next Js", "Node", "Restfull Api", "Antd"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "We Run The City",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Next Js", "Node", "Restfull Api", "Antd"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "KRS PUPR",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Next Js", "Node", "Antd"],
+    "demo": "https://www.example.com"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Rest Api",
+    "imageSrc": "skills/rest_api.png"
+  },
+  {
+    "title": "Next.Js",
+    "imageSrc": "skills/next-js.svg"
+  },
+  {
+    "title": "Typescipt",
+    "imageSrc": "skills/typescript.svg"
+  },
+  {
+    "title": "Git Hub",
+    "imageSrc": "skills/github.svg"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.svg"
+  },
+  {
+    "title": "Ant Design",
+    "imageSrc": "skills/antd.svg"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Trello",
+    "imageSrc": "skills/trello.svg"
+  }
+ 
+]
